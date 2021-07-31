@@ -1,2 +1,3 @@
 wheel
 php 
+worker: php bot.php
